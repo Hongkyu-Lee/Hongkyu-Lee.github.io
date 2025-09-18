@@ -1,9 +1,12 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IJCAI 2025":
+  url: https://2025.ijcai.org/
+  color: "#007240"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ArXiv":
+  color: "#B21A1B"
 
-"Vision":
-  color: "#009f36"
+"ACM WEB 2024":
+  color: "#B99B4A"
+
+"TPS-ISA":
+  url: https://www.computer.org/csdl/proceedings/tps-isa/2024/23ylI9YZLW0
