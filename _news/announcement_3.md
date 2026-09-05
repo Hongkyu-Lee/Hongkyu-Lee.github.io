@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-Our Paper [Contrastive Unlearning: A Contrastive Approach to Machine Unlearning](https://arxiv.org/abs/2401.10458) has been accepted to IJCAI 2025 
+Our Paper [Contrastive Unlearning: A Contrastive Approach to Machine Unlearning](https://arxiv.org/abs/2401.10458) has been accepted to IJCAI 2025
