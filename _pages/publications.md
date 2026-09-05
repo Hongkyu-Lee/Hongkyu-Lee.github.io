@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Here is the list of past and current publications
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
